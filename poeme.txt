@@ -1,6 +1,6 @@
 JE SUIS LE CHAT 
 Elle Faire du velo  
-le marchand vend une pomme
+le marchand vend une poire
 SUJET mange COMPLEMENT 
 LE CHAT ME SUIT 
 SUJET promène COMPLEMENT 
