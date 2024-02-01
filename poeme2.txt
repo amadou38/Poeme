@@ -5,3 +5,7 @@ Elle V C
 S V C
 S hache C
 S V C
+=======
+Je suis la
+Il est parti jouer
+a la maison
